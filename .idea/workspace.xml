@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3b7fb3-b8f6-47f0-9216-03f85a1ccc46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework4_1/NextDateCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/samples/AbsValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework/homework3_4/Rubles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework/homework3_4/Rubles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3_4/Rubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3_4/Rubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework/homework4_1/NextDateCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework/homework4_1/NextDateCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4_2/Houses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4_2/Houses.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,49 +39,17 @@
     </window>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/homework4_1/NextDateCalculator.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="319">
-                  <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/homework3_4/Rubles.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/homework3_4/Rubles.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/homework4_2/Houses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,14 +80,15 @@
         <option value="$PROJECT_DIR$/src/homework3_2/KeyBoardNumberToConsole.java" />
         <option value="$PROJECT_DIR$/src/samples/AbsValue.java" />
         <option value="$PROJECT_DIR$/src/homework4_1/NextDateCalculator.java" />
+        <option value="$PROJECT_DIR$/src/homework4_2/Houses.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="74" />
-    <option name="y" value="78" />
-    <option name="width" value="1767" />
-    <option name="height" value="795" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="23" />
+    <option name="width" value="1869" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -148,28 +113,17 @@
               <item name="HOMEWORK" type="b2602c69:ProjectViewProjectNode" />
               <item name="HOMEWORK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework3_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HOMEWORK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HOMEWORK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homework4_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HOMEWORK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HOMEWORK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556602423189" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556710080089" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -185,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextDateCalculator">
+  <component name="RunManager" selected="Application.Houses">
     <configuration name="AbsValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="samples.AbsValue" />
       <module name="homework" />
@@ -199,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyBoardNumberToConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3_2.KeyBoardNumberToConsole" />
+    <configuration name="Houses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4_2.Houses" />
       <module name="homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3_2.*" />
+          <option name="PATTERN" value="homework4_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Houses" />
         <item itemvalue="Application.NextDateCalculator" />
         <item itemvalue="Application.AbsValue" />
         <item itemvalue="Application.Rubles" />
         <item itemvalue="Application.Rectangular" />
-        <item itemvalue="Application.KeyBoardNumberToConsole" />
       </list>
     </recent_temporary>
   </component>
@@ -272,13 +226,21 @@
       <option name="presentableId" value="Default" />
       <updated>1555773728750</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework4.2">
+      <created>1556709181161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556709181161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="792" extended-state="6" />
+    <frame x="23" y="23" width="1869" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22495896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32413793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,7 +257,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275862" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -333,6 +295,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework4.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -435,16 +401,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework2_1/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/homework3_2/KeyBoardNumberToConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -458,17 +418,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework3_2/KeyBoardNumberToConsole.java">
+    <entry file="file://$PROJECT_DIR$/src/homework2_1/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="64" />
+        <state relative-caret-position="29">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homework4_1/NextDateCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework4_2/Houses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
         </state>
       </provider>
     </entry>

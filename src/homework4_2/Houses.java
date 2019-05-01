@@ -20,15 +20,14 @@ public class Houses {
         int sideF = new Scanner(System.in).nextInt();
 
 
-        if ((sideA + sideC < sideE) && (sideB + sideD < sideF)) {
+        if (((sideA + sideC < sideE) && (sideB + sideD < sideF))
+                || ((sideA + sideC < sideF) && (sideB + sideD < sideE))
+                || ((sideB + sideC < sideE) && (sideA + sideD < sideF))
+                || ((sideB + sideC < sideF) && (sideA + sideD < sideE))) {
             System.out.println("These houses can fit this lot");
-        } else if ((sideA + sideC < sideF) && (sideB + sideD < sideE)) {
-            System.out.println("These houses can fit this lot");
-        } else if ((sideB + sideC < sideE) && (sideA + sideD < sideF)) {
-            System.out.println("These houses can fit this lot");
-        } else if ((sideB + sideC < sideF) && (sideA + sideD < sideE)) {
-            System.out.println("These houses can fit this lot");
-        } else System.out.println("These houses are too big for this lot");
+        } else {
+            System.out.println("These houses are too big for this lot");
+        }
     }
 }
 

@@ -6,16 +6,16 @@ public class NumbersArray {
 
     public static void main(String[] args) {
 
-        // заполняешь массив числами 2,4,6,8,10,12,14,16,18,20 в цикле for / while 
-        System.out.println("In for loop: ");
+        // 2,4,6,8,10,12,14,16,18,20 for / while 
+        System.out.println("For loop: ");
         System.out.println(Arrays.toString(doFor()));
         System.out.println("\n");
 
-        System.out.println("In while loop: ");
+        System.out.println("While loop: ");
         System.out.println(Arrays.toString(doWhile()));
         System.out.println("\n");
 
-        // заполняешь двумерный массив единицами через одну ячейку (1,0,1,0,1,0,1,0,1)
+        // (1,0,1,0,1,0,1,0,1)
         System.out.println("And now the damn magic :) Prepare your eyes for 0s and 1s: ");
 
         final int size = 5;
